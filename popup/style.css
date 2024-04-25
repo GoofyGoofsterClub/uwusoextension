@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html, body
+{
+    margin: 0;
+    padding: 0;
+    background: #2E272E;
+}
+
+*
+{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+div.title-bar
+{
+    width: 100%;
+    height: 32px;
+    background: #281E28;
+}
+
+div.main-block
+{
+    width: 400px;
+    padding: 8px;
+}
+
+div.title-bar > .content {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.nav-el {
+    display: inline-block;
+    position: relative;
+    height: 100%;
+    padding: 0 20px;
+
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+
+    background: #3A2C3A;
+    transform: skewX(-20deg);
+    margin-left: -5px;
+}
+
+.nav-el > span {
+    margin: 0 24px;
+    display: inline-block;
+    font-size: 14px;
+    transform: skewX(20deg) translateY(2px);
+}
+
+input {
+    background: rgba(255, 255, 255, 0);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 999px;
+    padding: 8px 16px;
+    color: white;
+    outline: none;
+
+    transition: 0.2s;
+}
+
+input:focus {
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.input-button {
+
+    background: rgba(40, 30, 40, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 999px;
+    padding: 8px 32px;
+    color: white;
+    outline: none;
+    overflow: hidden;
+
+    margin: 0 2px;
+
+    transition: 0.2s;
+
+    position: relative;
+}
+
+.input-button:disabled {
+    opacity: 0.5;
+}
+
+input:disabled {
+    opacity: 0.5;
+}
+
+.input-button:hover {
+    background: rgba(40, 30, 40, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+
+}
+
+.small-text {
+    font-size: 11px;
+}
+
+.error-text {
+    color: rgb(240, 86, 86);
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.small-p {
+    padding: 1px;
+    margin: 1px;
+}

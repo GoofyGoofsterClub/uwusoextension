@@ -21,7 +21,7 @@ Will help you upload your filthy images from Twitter (X), r34paheal, pixiv or wh
 
 ### With Firefox Add-ons Website
 
-1. Go to (add-on page)[https://addons.mozilla.org/en-US/firefox/addon/uwu-so-uploader/]
+1. Go to [add-on page](https://addons.mozilla.org/en-US/firefox/addon/uwu-so-uploader/)
 2. Click Install
 3. Open the extension's pop up window and set up server and key.
 

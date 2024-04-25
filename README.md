@@ -50,7 +50,7 @@ It's an extension, just zip it up bruh...
 
 1. Select everything in the folder by following your mouse cursor from top-left side of the directory's window to bottom-right side, while holding your left mouse button pressed;
 2. After all files lit blue and became selected, right click any of the files;
-3. Select 'Send To` and then `Compressed Archive` or something like that;
+3. Select `Send To` and then `Compressed Archive` or something like that;
 4. Enjoy.
 
 ## Credits

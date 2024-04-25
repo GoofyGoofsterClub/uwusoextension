@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "uwu.so Uploader",
     "description": "Upload image to uwu.so by using context menu.",
-    "version": "1.0",
+    "version": "1.0.1",
     "homepage_url": "https://uwu.so",
 
     "icons": {
